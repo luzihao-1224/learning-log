@@ -1,7 +1,10 @@
-﻿__pycache__/
+__pycache__/
 *.pyc
 .venv/
 venv/
 .env
 *.log
-.vscode/settings.json
+
+# 保留 VS Code 配置（让项目在任何电脑上都有一致的设置），忽略其余
+.vscode/*
+!.vscode/settings.json

@@ -1,0 +1,15 @@
+{
+  "python.defaultInterpreterPath": "D:\\Program Files\\Python313\\python.exe",
+  "python.terminal.activateEnvironment": true,
+  "files.encoding": "utf8",
+  "files.autoGuessEncoding": true,
+  "editor.fontSize": 15,
+  "editor.tabSize": 4,
+  "editor.formatOnSave": true,
+  "editor.rulers": [88],
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "explorer.confirmDelete": true,
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "workbench.startupEditor": "none"
+}
